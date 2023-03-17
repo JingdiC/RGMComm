@@ -35,7 +35,7 @@ def get_args():
     parser.add_argument("--save-rate-prob", type=int, default=256, help="save probabilities between actions and comm labels once every time this many episodes are completed")
 
     parser.add_argument("--model-dir", type=str, default="", help="directory in which training state and model are loaded")
-    parser.add_argument("--load-comm-dir", type=str, default="./maddpg/stage2", help="directory in which comm mpdel loaded")
+    parser.add_argument("--load-comm-dir", type=str, default="./maddpg/stage2", help="directory in which comm model loaded")
 
 
     # Evaluate
