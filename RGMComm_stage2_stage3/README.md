@@ -1,4 +1,4 @@
-#RGMComm Stage 2: Message Generation Module Training & Stage 3: Training with communication message labels
+## RGMComm Stage 2: Message Generation Module Training & Stage 3: Training with communication message labels
 
 + This is a pytorch implementation developed for Return-Gap-Minimization Communication(RGMComm) algorithm STAGE 2 and STAGE 3 to train message generation module and train agents with communication message labels enabled; 
 + Evaluation environment is [Multi-Agent Particle Environment(MPE)](https://github.com/openai/multiagent-particle-envs), the corresponding paper is [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275).

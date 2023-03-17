@@ -1,4 +1,4 @@
-#RGMComm
+## RGMComm
 
 + This is a pytorch implementation developed for Return-Gap-Minimization Communication(RGMComm) algorithm 
 + It contains two folder: RGMComm_stage1 and RGMComm_stage2_stage3, see more detailed readme files under each folder:

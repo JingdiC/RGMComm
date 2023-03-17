@@ -1,4 +1,4 @@
-#RGMComm Stage 1: Collecting Q value vectors for each agent
+## RGMComm Stage 1: Collecting Q value vectors for each agent
 
 + This is a pytorch implementation developed for Return-Gap-Minimization Communication(RGMComm) algorithm STAGE 1 to collecting action-value(Q values) vectors samples.
 + Evaluation environment is [Multi-Agent Particle Environment(MPE)](https://github.com/openai/multiagent-particle-envs), the corresponding paper is [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments](https://arxiv.org/abs/1706.02275).
