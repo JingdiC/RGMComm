@@ -23,4 +23,5 @@
    + Predator-Prey with 2 predators: simple_tag_2.py
    + Predator-Prey with 3 predators: simple_tag_3.py
    + Cooperation Navigation with 2 agents: simple_spread.py
++ Under 'baselines_and_total_compare' folder, we show comparison results for Predator-Prey with 6 predators.
 
